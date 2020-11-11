@@ -19,7 +19,7 @@ The system folders is:
 * ```outpath```: files resulting from the execution of the scripts
 
 ## Setup
-To run this project, install it locally using npm:
+To run this project, install it locally and change the path where you save the folder in the script:
 
 ```
 $ cd ../lorem
