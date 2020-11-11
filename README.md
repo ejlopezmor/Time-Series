@@ -1,3 +1,2 @@
 # Time-Series
-This repository includes slides and code R describing Time Series Analysis. 
-I have been changes since July 6th.
+This repository includes the presentations developed for the class of univariate and multivariate time series of the Specialization in Statistics program at the Universidad Libertadores in Colombia.
