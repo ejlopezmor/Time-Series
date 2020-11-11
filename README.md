@@ -14,9 +14,9 @@ The syllabus of the class is:
 	
 ## Folders
 The system folders is:
-* src: Scripts of class
-* inpath: input files for the execution of the scripts
-* outpath: files resulting from the execution of the scripts
+* ```src```: scripts of class
+* ```inpath```: input files for the execution of the scripts
+* ```outpath```: files resulting from the execution of the scripts
 
 ## Setup
 To run this project, install it locally using npm:
