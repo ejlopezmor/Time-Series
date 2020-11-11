@@ -1,5 +1,5 @@
 # Time-Series
-This repository includes the presentations developed for the class of univariate and multivariate time series of the Specialization in Statistics program at the Universidad Libertadores in Colombia.
+This repository includes the presentations developed for the class of univariate and multivariate time series of the Specialization in Statistics program at the Universidad Libertadores in Colombia. The codes are developed in **R**.
 
 ## Description
 The syllabus of the class is:
