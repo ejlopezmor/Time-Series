@@ -22,8 +22,7 @@ The system folders is:
 To run this project, install it locally and change the path where you save the folder in the script:
 
 ```
-$ cd ../lorem
-$ npm install
-$ npm start
+inpath  <- "D:/PERSONAL/6. EDUCACIÓN/1-LIBERTADORES/1-SERIES DE TIEMPO/inpath/"
+outpath <- "D:/PERSONAL/6. EDUCACIÓN/1-LIBERTADORES/1-SERIES DE TIEMPO/outpath/"
 ```
 
